@@ -16,5 +16,8 @@ sync_theme:
 	rm v1.9.7.zip && \
 	mv hexo-theme-fluid-1.9.7 fluid
 
+deploy:
+	hexo deploy
+
 run_server:
 	hexo clean && hexo s --debug
