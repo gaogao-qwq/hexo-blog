@@ -1008,6 +1008,12 @@ links:
       link: "https://hibiki.cool/",
       avatar: "/img/links/hibiki.jpg"
     }
+    - {
+      title: "iusx",
+      intro: "ദ്ദി˶>𖥦<)🍋",
+      link: "https://m.ritsu.jiangxue.org/",
+      avatar: "/img/links/iusx.png"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
